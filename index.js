@@ -2,7 +2,7 @@ const store = require('./redux/store')
 
 const { addCount, setCount } = require('./redux/actions')
 
-store.suscribe( () => {
+store.subscribe( () => {
     console.log(store.getState())
 })
 
