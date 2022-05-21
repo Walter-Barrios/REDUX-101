@@ -9,7 +9,7 @@ Simple Redux example to test in NodeJS console.
 5) create the actions
 
 ## File and folder structure
-- redux
+- /redux
   - /store
     - index.js
   - /reducer
