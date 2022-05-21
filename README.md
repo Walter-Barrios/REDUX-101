@@ -22,4 +22,5 @@ Simple Redux example to test in NodeJS console.
 ## Implementation
 1) clone the repo
 2) npm init
-3) node index.js
+3) npm i redux
+4) node index.js
