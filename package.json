@@ -1,0 +1,22 @@
+{
+  "name": "redux-101",
+  "version": "1.0.0",
+  "description": "Simple Redux example to test in NodeJS console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walternomas/REDUX-101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walternomas/REDUX-101/issues"
+  },
+  "homepage": "https://github.com/walternomas/REDUX-101#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
