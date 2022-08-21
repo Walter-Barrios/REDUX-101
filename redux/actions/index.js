@@ -1,4 +1,9 @@
-const { ADD_COUNT, SET_COUNT, ADD_NAME, SET_NAME } = require("./actionTypes");
+const { 
+  ADD_COUNT, 
+  SET_COUNT, 
+  ADD_NAME, 
+  SET_NAME 
+} = require("./actionTypes");
 
 function addCount() {
   return {

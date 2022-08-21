@@ -13,5 +13,5 @@ store.dispatch(addCount());
 
 store.dispatch(setName("Julian"));
 store.dispatch(addName());
-store.dispatch(addName());
+store.dispatch(addName("Jazmin"));
 store.dispatch(addName());
