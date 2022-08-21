@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/walternomas/REDUX-101#readme",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
     "redux": "^4.2.0"
   }
 }
